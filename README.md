@@ -44,7 +44,20 @@ Computability:
 
 - L5.1: The halting problem is not computable.
 
-# Part II: Learning to Write Proofs
+## Part II: Learning to Write Proofs
 
 ...
+
+## References
+
+### Software tools
+
+- [Language, Proof and Logic](https://www.gradegrinder.net/Products/lpl-index.html) (Tarski's World)
+
+- [Open Logic Project](http://proofs.openlogicproject.org/), [Sample exercises](http://proofs.openlogicproject.org/fol-exs.html), [Textbook](http://forallx.openlogicproject.org/) (Fitch-style natural deduction)
+
+- [The Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) (LEAN)
+
+- Introduction to Formal Proof (JAPE): [Software](http://www.cs.ox.ac.uk/people/bernard.sufrin/personal/jape.org/japeforallindex.html), [Tutorial](http://www.cs.ox.ac.uk/people/bernard.sufrin/personal/jape.org/OXFORDIFP/Jape/JapeForIFP.pdf), [Lecture Notes](http://www.cs.ox.ac.uk/people/bernard.sufrin/personal/jape.org/OXFORDIFP/Lectures/)
+
 
