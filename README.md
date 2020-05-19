@@ -30,7 +30,7 @@ Algebra:
 - L2.3: Some things that my look contradictory, maybe are not: we can take the square root of -1 and we can have numbers where 1+1=0.
 
 Calculus: 
-- L3.1-3.3:There are plenty of seeming paradoxa in calculus such as infinite sequences converging against two different values, or infinitesimals that are larger than zero but smaller than all real numbers. 
+- L3.1-3.3:There are plenty of seeming paradoxa in calculus such as infinite sequences converging against two different values, or infinitesimals that are larger than zero but smaller than all positive real numbers. 
 - This is a pivotal section of the course. The difficulties of calculus gave birth to set theory and logic. Moreover, it is a great example of how we need proofs as a method to even answer a basic question such as "what is the number line?".
 
 Set theory: 
