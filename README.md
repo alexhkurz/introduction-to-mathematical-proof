@@ -1,4 +1,4 @@
-# README
+# Introduction to Mathematical Proof
 
 (... under construction ... still early stages ...)
 
