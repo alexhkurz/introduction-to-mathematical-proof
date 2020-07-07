@@ -4,14 +4,14 @@ The two most powerful and robust sciences are maths and physics. Physics and Mat
 
 It is worth reflecting about why this is the case.
 
-Physics stands out for its balance between theory and experiment. Nobel prizes are divided equally between theoretical physicists and experimental phsycicist. The best physical theories stand out because 
+Physics cultivates a balance between theory and experiment. Nobel prizes are divided equally between theoretical physicists and experimental phsycicist. The generally accepted physical theories stand out because 
 
 - they are causal theories that allow us to make precise predictions,
 - there is not a single known experiment contradicting them.
 
-An interesting story illustrating the power of physical theories is ...
+An interesting story illustrating the power of physical theories is the [faster than light neutrino anomality](Faster-than-light neutrino anomaly). In 2011, experiments observed neutrinos  travling faster than light. Despite big efforts, for a long time no mistakes in the experiment could be found. Nevertheless, physicists where reluctant to believe the experiment because it contradicted Einstein's relativity. The details of this story can be found in the article [OPERA: What Went Wrong](https://profmattstrassler.com/articles-and-posts/particle-physics-basics/neutrinos/neutrinos-faster-than-light/opera-what-went-wrong/), which is very much worth reading.
 
-Of course, I am not saying that physicists can just invent theories as they wish. On the contrary, the physical theories accepted by the scientific consensus are known to be true, according to the record of all experiments ever made. 
+Of course, I am not saying that physicists can just invent theories as they wish. On the contrary, the physical theories accepted by the scientific consensus are known to be true in the sense that they are known to not be in contradictions with any experiment on the record ever made. 
 
 Physical theories are constrained by experiments. 
 
@@ -27,13 +27,19 @@ But how can we make sure that we are not making mental constructions that are im
 
 By mathemtical proof.
 
-So far we described an analogy between the role of experiment and physics and proof in mathematics: Both constrain what theories we are allowed to build.
+So far we described an analogy between the role of experiment in physics and proof in mathematics: Both constrain what theories we are allowed to build.
 
 But the analogy does go deeper.
 
 On the physics side, the power of physical theories is not only due to experiments. The power of physical theories also relies on mathematical proof. For example, from some simple assumptions, including that  the speed of light is the same in all reference systems, one can prove the famous equation $E=m\cdot c^2$.
 
-On the mathematical side, mathematicians use proofs a bit like experimental verification. Suppose you create a new mathemtical definition. How do you convince your fellow mathematicians that it is an interesting definition? An interesting definition is one that allows us to prove many results, preferably surprising ones, from a small number of assumptions.
+So even before we have done any experiment on $E=m\cdot c^2$, it is safe to assume that the equation is true. This gave engineers the confidence that an atomic bomb can be built, even though nobody has ever done this before. (Maybe better to find a less controversial example? Or just more examples?)
+
+On the mathematical side, mathematicians use proofs instead of experimental verification. Theorems that have proofs cannot lead to contradictory conclusions. (This general statement needs some qualifications we may explore later.)
+
+But apart from establishing truth, proofs are also important in a more pragmatic way.
+
+Suppose you create a new mathemtical definition. How do you convince your fellow mathematicians that it is an interesting definition? An interesting definition should allow us to prove many results, preferably surprising ones, from a small number of assumptions.
 
 Of course, there are many other reasons why proofs are important. We will see examples of all of the following.
 
@@ -49,10 +55,12 @@ Of course, there are many other reasons why proofs are important. We will see ex
 
 - A new proof generates new questions. These new questions are often more consequential than the proof.
 
-- As we build up mathematics it gets more and more sophisticated and more and more care is needed not to get yourself into contradictions.
+- Mathematics is about patterns and proofs are a way to generate more patterns. Some of the most powerful patterns in maths arise from analogies between proofs.
 
-- Mathematicians use existing theorems as building blocks for future mathematics. If these theorems are not reliable the whole beautiful tower of maths might break down.
+- As we build up, mathematics gets more and more sophisticated and more and more care is needed not to get yourself into contradictions.
 
-- Not all areas of mathematics are easily accessible to intuition. But intuition is necessary to make progress. Mathematicians use proofs to build up an intuitive understanding of new areas of maths that seem abstract at the outset and become familiar later. 
+- Mathematicians use existing theorems as building blocks for future mathematics. If these theorems are not reliable the whole beautiful tower of maths breaks down.
+
+- Not all areas of mathematics are easily accessible to intuition. But intuition is necessary to make progress. Mathematicians use proofs to build up an intuitive understanding of new areas of maths that seem abstract at the outset and become familiar through proof on the way. 
 
 - Proofs is the vehicle mathematicians use to travel the landsacpe of ideas.
