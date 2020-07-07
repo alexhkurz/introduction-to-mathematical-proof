@@ -6,6 +6,12 @@ The outlines of a course for students of the last two years of high school or be
 
 [Introduction](introduction.md): Why do we need proofs in mathematics? 
 
+The aim of the course is to use formal logic as a tool to teach students to write informal mathematical proofs.
+
+Part I collects examples of proofs. 
+
+I dont have Part II yet. Part II should teach writing proofs, but I dont know yet how to best go about it.
+
 ## Part I: Examples
 
 All these examples can be presented in a way that they are accessible to students in the last year of high school or first year university. 
